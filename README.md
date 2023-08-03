@@ -31,11 +31,11 @@ Login button doesn’t allow users to login, an Add to cart button that doesn’
 
 
 Status of bug:
- 1.NOT YET ASSIGNED
- 2.IN PROCESS
- 3.FIXED
- 4.DELIVERED
- ENTER YOUR CHOICE : 1
+  1.NOT YET ASSIGNED
+  2.IN PROCESS
+  3.FIXED
+  4.DELIVERED
+  ENTER YOUR CHOICE : 1
 
 *************** BUG TRACKING SYSTEM ***************
 
@@ -49,11 +49,11 @@ Status of bug:
 Enter file name:
 bug1
 
- 1.NOT YET ASSIGNED
- 2.IN PROCESS
- 3.FIXED
- 4.DELIVERED
- ENTER YOUR CHOICE:3
+  1.NOT YET ASSIGNED
+  2.IN PROCESS
+  3.FIXED
+  4.DELIVERED
+  ENTER YOUR CHOICE:3
 
 *************** BUG TRACKING SYSTEM ***************
 
